@@ -1,4 +1,3 @@
 com/restservice/controller/TournamentControllerTest.class
-com/restservice/RestServiceApplicationTests.class
 com/restservice/model/MatchTest.class
 com/restservice/service/impl/TournamentServiceImplTest.class

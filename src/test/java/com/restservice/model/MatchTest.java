@@ -4,6 +4,8 @@ import lombok.val;
 import org.assertj.core.api.Assertions;
 import org.junit.Before;
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.junit.MockitoJUnitRunner;
 
 import java.time.LocalDate;
 import java.time.ZoneId;
@@ -12,6 +14,7 @@ import java.util.Date;
 import static java.time.Month.MARCH;
 import static org.assertj.core.api.Assertions.assertThat;
 
+@RunWith(MockitoJUnitRunner.class)
 public class MatchTest {
 
     private Match underTest;

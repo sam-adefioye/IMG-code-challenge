@@ -1,0 +1,115 @@
+[
+  {
+    "customerId": "10",
+    "tournaments": [
+      {
+        "tournamentId": "1000",
+        "licence": "ABC123",
+        "matches": [
+          {
+            "matchId": "1000",
+            "startDate": "2021-03-17T11:05:03.969Z",
+            "playerA": "Andy Murray",
+            "playerB": "Novak Djokovic",
+            "summary": ""
+          },
+          {
+            "matchId": "1001",
+            "startDate": "2021-04-01T11:05:03.969Z",
+            "playerA": "Roger Federer",
+            "playerB": "Jo-Wilfried Tsonga",
+            "summary": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customerId": "11",
+    "tournaments": [
+      {
+        "tournamentId": "1001",
+        "licence": "XYZ456",
+        "matches": [
+          {
+            "matchId": "100",
+            "startDate": "1992-06-21T11:05:03.969Z",
+            "playerA": "Boris Becker",
+            "playerB": "Jim Courier",
+            "summary": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customerId": "12",
+    "tournaments": [
+      {
+        "tournamentId": "1002",
+        "licence": "YHR78B",
+        "matches": [
+          {
+            "matchId": "55",
+            "startDate": "2021-03-17T11:05:03.969Z",
+            "playerA": "Serena Williams",
+            "playerB": "Maria Sharapova",
+            "summary": ""
+          },
+          {
+            "matchId": "65",
+            "startDate": "2021-04-01T11:05:03.969Z",
+            "playerA": "Venus Williams",
+            "playerB": "Naomi Osaka",
+            "summary": ""
+          }
+        ]
+      },
+      {
+        "tournamentId": "1045",
+        "licence": "POLM12Z",
+        "matches": [
+          {
+            "matchId": "89",
+            "startDate": "2021-03-17T11:05:03.969Z",
+            "playerA": "Rafael Nadal",
+            "playerB": "Daniil Medvedev",
+            "summary": ""
+          },
+          {
+            "matchId": "44",
+            "startDate": "2021-04-01T11:05:03.969Z",
+            "playerA": "Stan Wawrinka",
+            "playerB": "Matteo Berrettini",
+            "summary": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "customerId": "57",
+    "tournaments": [
+      {
+        "tournamentId": "85",
+        "licence": "ABC123",
+        "matches": [
+          {
+            "matchId": "433",
+            "startDate": "2021-03-17T11:05:03.969Z",
+            "playerA": "Ashleigh Barty",
+            "playerB": "Simona Halep",
+            "summary": ""
+          },
+          {
+            "matchId": "766",
+            "startDate": "2021-04-01T11:05:03.969Z",
+            "playerA": "Sofia Kenin",
+            "playerB": "Iga Swiatek",
+            "summary": ""
+          }
+        ]
+      }
+    ]
+  }
+]
